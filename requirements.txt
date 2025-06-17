@@ -1,0 +1,7 @@
+Flask
+openai
+stripe
+gtts
+python-dotenv
+flask_sqlalchemy
+gunicorn
